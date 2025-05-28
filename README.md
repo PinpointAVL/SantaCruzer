@@ -1,2 +1,2 @@
 # SantaCruzer
-GTFS Feed for Santa Cruzer 
+GTFS Feed for the Santa Cruzer Beach/Downtown Shuttle in Santa Cruz, California
