@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+SantaCruz,City of Santa Cruz,https://www.cityofsantacruz.com/government/city-departments/economic-development/the-santa-cruzer-beach-downtown-shuttle,America/Los_Angeles,en,,,kferraro@santacruzca.gov

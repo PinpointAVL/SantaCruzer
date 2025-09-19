@@ -1,0 +1,4 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+800,800,Del Mar Theatre,,36.9725553341713,-122.025680612158,cruzer_zone,,0,,,
+801,801,Locust Street Garage,,36.9752434106014,-122.027226591586,cruzer_zone,,0,,,
+802,802,Marine Exploration Center,,36.963414098406,-122.024637044007,cruzer_zone,,0,,,
